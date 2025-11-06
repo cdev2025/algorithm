@@ -63,7 +63,7 @@ public class Solution {
     }
 
     /**
-     * 🧠 테스트용 main 메서드
+     * 테스트용 main 메서드
      */
     public static void main(String[] args) {
         Solution solution = new Solution();

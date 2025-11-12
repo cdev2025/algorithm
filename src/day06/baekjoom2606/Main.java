@@ -1,4 +1,4 @@
-package day06.baekjoom2506;
+package day06.baekjoom2606;
 
 import java.util.LinkedList;
 import java.util.List;
